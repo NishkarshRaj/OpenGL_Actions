@@ -1,0 +1,10 @@
+name: OpenGL Output
+on: push
+
+jobs:
+  build:
+    name: OpenGL
+    runs-on: ubuntu-latest    
+    steps:
+    - uses: actions/checkout@master
+    - uses: ./action-a
