@@ -1,4 +1,4 @@
-name: 'OpenGL Output for source code commit'
+name: 'OpenGL Actions'
 description: 'Create OpenGL output for code using Freeglut package on Ubuntu'
 author: 'Nishkarsh Raj'
 inputs:
